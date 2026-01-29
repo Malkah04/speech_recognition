@@ -16,7 +16,8 @@ This project aims to build a Speech Emotion Recognition (SER) system that classi
 
 ## Dataset
 
-* CREMA-D
+* CREMA-D ("angry", "happy", "sad", "neutral", "fear", "disgust")
+
 The dataset will include at least five emotion classes.
 
 ---
